@@ -1,0 +1,8 @@
+.myfooter {
+    padding: 50px 0 20px 0;
+    background-color: #35404f;
+    color: #878c94;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

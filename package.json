@@ -1,0 +1,25 @@
+{
+  "name": "arduino-realtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "arduino"
+  ],
+  "author": "Anh Quoc Tran",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "latest",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "latest",
+    "mongoose": "^4.12.6",
+    "morgan": "^1.9.0",
+    "pug": "^2.0.0-rc.4",
+    "socket.io": "latest"
+  }
+}
